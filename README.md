@@ -1,4 +1,5 @@
 # bookbot
-project created as part of boot.dev course
 
-this is the first project created as part of the boot.dev course
+Takes a .txt document and generates the following data:
+- Total number of words
+- Count for each letter used (sorted from most used to least)
